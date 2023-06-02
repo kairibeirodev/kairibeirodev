@@ -3,7 +3,7 @@ Possuo foco em desenvolvimento com Javascript, TypeScript, React, React Native, 
 
 
 ## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@karibeirodev) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@karibeirodev) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kairibeirodev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kairibeirodev&theme=vue-dark&hide_border=false)<br/>
