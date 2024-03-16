@@ -1,5 +1,5 @@
 # 💫 About Me:
-Possuo foco em desenvolvimento com Javascript, TypeScript, React, React Native, NodeJS dentre outras tecnologias.<br><br>Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronta para superar qualquer desafio!<br>Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçada! :)
+Possuo foco em desenvolvimento com Javascript, Flutter, React, React Native, NodeJS dentre outras tecnologias. <br><br>Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronta para superar qualquer desafio!<br>Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçada! :)
 
 
 ## 🌐 Socials:
