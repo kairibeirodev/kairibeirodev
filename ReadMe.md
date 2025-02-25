@@ -1,6 +1,7 @@
 # 💫 About Me:
 Possuo foco em desenvolvimento com JavaScript, Flutter, React, React Native, NodeJS dentre outras tecnologias. <br><br>Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronta para superar qualquer desafio!<br>Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçada! :)
 
+<h3 class="heading-element" dir="auto">✨ Curiosidades</h3>
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@karibeirodev) 
