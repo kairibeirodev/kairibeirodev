@@ -1,5 +1,7 @@
 # 💫 About Me:
-Possuo foco em desenvolvimento com JavaScript, Flutter, React, React Native, NodeJS dentre outras tecnologias. <br><br>Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronta para superar qualquer desafio!<br>Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçada! :)
+Atualmente possuo foco em desenvolvimento front-end com HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS e Figma. Tenho experiência na criação de interfaces modernas e responsivas, buscando sempre a melhor experiência para o usuário.
+
+Me considero ágil e consistente em aprender novas tecnologias, com alta adaptabilidade às mudanças, sempre pronta para superar qualquer desafio! Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçada! :)
 
 <h3 class="heading-element" dir="auto">✨ Curiosidades</h3>
 <ul dir="auto">
