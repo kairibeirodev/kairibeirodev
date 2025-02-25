@@ -2,6 +2,14 @@
 Possuo foco em desenvolvimento com JavaScript, Flutter, React, React Native, NodeJS dentre outras tecnologias. <br><br>Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronta para superar qualquer desafio!<br>Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçada! :)
 
 <h3 class="heading-element" dir="auto">✨ Curiosidades</h3>
+<ul dir="auto">
+
+<li>Sou fã de Harry Potter e MCU.</li>
+<li>Sou fã da Lady Gaga desde os 13 anos.</li>
+<li>Até o momento sei cuidar dogs filhote.</li>
+<li>As vezes faço trocadilhos / piadas ruins.</li>
+<li>Comida preferida: Pudim e pão com requeijão.</li>
+</ul>
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@karibeirodev) 
