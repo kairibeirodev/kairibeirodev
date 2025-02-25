@@ -4,7 +4,7 @@ Possuo foco em desenvolvimento com JavaScript, Flutter, React, React Native, Nod
 <h3 class="heading-element" dir="auto">✨ Curiosidades</h3>
 <ul dir="auto">
 
-<li>Sou fã de Harry Potter e MCU.</li>
+<li>Sou fã de Homem Aranha. </li>
 <li>Sou fã da Lady Gaga desde os 13 anos.</li>
 <li>Até o momento sei cuidar dogs filhote.</li>
 <li>As vezes faço trocadilhos / piadas ruins.</li>
